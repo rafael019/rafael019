@@ -45,7 +45,7 @@
 
 ## Status
 
-- 🔭 Atualmente trabalhando na Yogh - Especialistas em WordPress
+- 🔭 Atualmente trabalhando na <a href="https://www.yogh.com.br" target="blank">Yogh - Especialistas em WordPress</a>
 - 🌱 Estudando React Native 
 - 🤔 Fã e membro da Comunidade Wordpress
 - 💬 Criador de alguns temas e plugins disponíveis no Wordpress.org
