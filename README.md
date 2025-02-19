@@ -45,7 +45,7 @@
 
 ## Status
 
-- 🔭 Atualmente trabalhando na Prefeitura Municipal de Itararé
+- 🔭 Atualmente trabalhando na Yogh - Especialistas em WordPress
 - 🌱 Estudando React Native 
 - 🤔 Fã e membro da Comunidade Wordpress
 - 💬 Criador de alguns temas e plugins disponíveis no Wordpress.org
