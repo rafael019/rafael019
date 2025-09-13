@@ -45,7 +45,7 @@
 
 ## Status
 
-- 🔭 Dev Fullstrack na <a href="https://www.yogh.com.br" target="blank">Yogh - Especialistas em WordPress</a>
-- 🌱 Estudando Docker
+- 🔭 Dev Fullstrack Freelancer
+- 🌱 Estudando Tailwind CSS
 - 📫 contato@rafaelbeva.com.br
 - ⚡ Cosplayer e Fã de Power Rangers
